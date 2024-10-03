@@ -1,16 +1,13 @@
-## Hi there 👋
+# Internet Dude Doing Internet Things!
+Self taught Full Stack developer, specialising in the FE.  Over 16 years in industry of making and breaking stuff. 
+I don't take life too seriously, and you shouldn't either.
 
-<!--
-**AllanOcelot/allanocelot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Currently doing:
+- Learning some Java via creation / editing of Runelite plugin.
+- Making a silly little Alien inspired CSS framework for other nerds.
+- Learning a bit of Blazor in my downtime.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Other stuff
+Read "Clean Code" by Robert Martin, thank me later.
