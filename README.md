@@ -1,11 +1,11 @@
 # Internet Dude Doing Internet Things!
-Self taught Full Stack developer, specialising in the FE.
-I have over 16 years in industry, being lucky enough to work with some of the World's biggest musicians, creative brands and products.
+Full stack, FE specalist, with 16 years in industry.
+I've been lucky enough to work with some of the World's biggest musicians, creative brands, products and services.
+
+
 I love the web, and belive in a free, open and accessable internet for everyone, everywhere.
 
-This github is purely for learning/personal pet projects.
-
-Not looking for work opportunities - but always open to contribute to fun OS projects.
+Not looking for work opportunities - This github is purely for learning/personal pet projects.
 
 # Currently doing:
 -  ⚔️  - Learning some Java via creation / editing of Runelite plugin.
