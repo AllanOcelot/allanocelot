@@ -2,16 +2,15 @@
 Full stack, FE specalist, with 16 years in industry.
 I've been lucky enough to work with some of the World's biggest musicians, creative brands, products and services.
 
-
 I love the web, and belive in a free, open and accessable internet for everyone, everywhere.
 
 Not looking for work opportunities - This github is purely for learning/personal pet projects.
 
 # Currently doing:
--  ⚔️  - Learning some Java via creation / editing of Runelite plugin.
--  🖥️  - I am learning some dot net / EF to help with some commercial projects.
--  🖥️  - Making a silly little Alien inspired CSS framework for other nerds.
--  🤓  - Learning a bit of Blazor in my downtime.
+-  ⚔️  - Codepills - a simple lib for generating code pills for blogs and portfolios
+-  🖥️  - Learning Blazor / Dot Net / Entity Framework ( it's going well! )
+-  🖥️  - Contributing to OSS that I use / helping out when I get free time
+-  🤓  - Telling bad jokes and laughing at my own
 
 
 # Interested in contributing to:
@@ -22,4 +21,4 @@ Not looking for work opportunities - This github is purely for learning/personal
 
 
 # Other stuff
-I have little free time, I apologise if I attempt to contribute to something then get pulled away - such is life.
+Be nice to each other, it's github, not highschool lmao
